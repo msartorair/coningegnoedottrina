@@ -28,16 +28,16 @@ Il convegno *«Con ingegno e dottrina». Ricerca ecdotica e indagine manoscritta
 
 ## Slide
 
-* Paolo Rinoldi (Università di Parma), *L’edizione critica della* Chanson d’Aspremont ([slides](slides/Rinoldi.pdf), [registrazione]())
-* Margherita Centenari (Università di Parma), *Errori e aggiunte nel manoscritto della* Cronica *di Salimbene de Adam*
-* Attilio Cicchella (Università degli Studi di Torino), *La tradizione delle lettere di Caterina da Siena:* status quaestionis *e prospettive di ricerca*
-* Andrea Bocchi (Università degli Studi di Udine), *Cristiano da Camerino dal manoscritto al commento*
-* Carlo Varotti (Università di Parma), *Tra filologia e commento: il ‘testo lungo’ dei* Ricordi *di F. Guicciardini*
-* Luca Frassineti (Università degli Studi della Campania “Luigi Vanvitelli”), *Sull’edizione del carteggio tra la tipografia bresciana di Nicolò Bettoni e Vincenzo Monti (1806-1827)*
-* Carmela Marranchino (Università degli Studi di Pavia), *Le Muse nella storia. Vicissitudini ecdotiche della* Musogonia *montiana*
-* Donatella Martinelli (Università di Parma), *Una nuova edizione dei* Canti popolari greci
-* Elena Porciani (Università degli Studi della Campania “Luigi Vanvitelli”), *Nel laboratorio della giovane Morante.* Via dell’Angelo *e il suo doppio*
-* Niccolò Scaffai (Università degli Studi di Siena), *«Non so inventare nulla»: commentare Montale tra prosa e poesia* (Farfalla di Dinard, La bufera e altro)
+* **Paolo Rinoldi** (Università di Parma), *L’edizione critica della* Chanson d’Aspremont ([slides](slides/Rinoldi.pdf), [registrazione](https://bit.ly/CIED_Rinoldi_registrazione))
+* **Margherita Centenari** (Università di Parma), *Errori e aggiunte nel manoscritto della* Cronica *di Salimbene de Adam* ([slides](slides/Centenari.pdf), [registrazione](https://bit.ly/CIED_Centenari_registrazione))
+* **Attilio Cicchella** (Università degli Studi di Torino), *La tradizione delle lettere di Caterina da Siena:* status quaestionis *e prospettive di ricerca* ([slides](slides/Cicchella.pdf), [registrazione](https://bit.ly/CIED_Cicchella_registrazione))
+* **Andrea Bocchi** (Università degli Studi di Udine), *Cristiano da Camerino dal manoscritto al commento* ([slides](slides/Bocchi.pdf), [registrazione](https://bit.ly/CIED_Bocchi_registrazione))
+* **Carlo Varotti** (Università di Parma), *Tra filologia e commento: il ‘testo lungo’ dei* Ricordi *di F. Guicciardini* ([slides](slides/Varotti.pdf), [registrazione](https://bit.ly/CIED_Varotti_registrazione))
+* **Luca Frassineti** (Università degli Studi della Campania “Luigi Vanvitelli”), *Sull’edizione del carteggio tra la tipografia bresciana di Nicolò Bettoni e Vincenzo Monti (1806-1827)* ([slides](slides/Frassineti.pdf), [registrazione](https://bit.ly/CIED_Frassineti_registrazione))
+* **Carmela Marranchino** (Università degli Studi di Pavia), *Le Muse nella storia. Vicissitudini ecdotiche della* Musogonia *montiana* ([slides](slides/Marranchino.pdf), [registrazione](https://bit.ly/CIED_Marranchino_registrazione))
+* **Donatella Martinelli** (Università di Parma), *Una nuova edizione dei* Canti popolari greci ([slides](slides/Martinelli.pdf), [registrazione](https://bit.ly/CIED_Martinelli_registrazione))
+* **Elena Porciani** (Università degli Studi della Campania “Luigi Vanvitelli”), *Nel laboratorio della giovane Morante.* Via dell’Angelo *e il suo doppio* ([slides](slides/Porciani.pdf), [registrazione](https://bit.ly/CIED_Porciani_registrazione))
+* **Niccolò Scaffai** (Università degli Studi di Siena), *«Non so inventare nulla»: commentare Montale tra prosa e poesia* (Farfalla di Dinard, La bufera e altro) ([slides](slides/Scaffai.pdf), [registrazione](https://bit.ly/CIED_Scaffai_registrazione))
 
 
 
