@@ -24,9 +24,23 @@ Il convegno *«Con ingegno e dottrina». Ricerca ecdotica e indagine manoscritta
 | Syntax | Description |
 | --- | ----------- |
 | Rassegna stampa | https://github.com/msartorair/coningegnoedottrina/blob/main/Rassegna_stampa.pdf |
-| Slides | https://bit.ly/CIED_slides |
+| Slides | slides/ |
 
-Slide
+## Slide
+
+* Paolo Rinoldi (Università di Parma), *L’edizione critica della* Chanson d’Aspremont ([slides](slides/Rinoldi.pdf), [registrazione]())
+* Margherita Centenari (Università di Parma), *Errori e aggiunte nel manoscritto della* Cronica *di Salimbene de Adam*
+* Attilio Cicchella (Università degli Studi di Torino), *La tradizione delle lettere di Caterina da Siena:* status quaestionis *e prospettive di ricerca*
+* Andrea Bocchi (Università degli Studi di Udine), *Cristiano da Camerino dal manoscritto al commento*
+* Carlo Varotti (Università di Parma), *Tra filologia e commento: il ‘testo lungo’ dei* Ricordi *di F. Guicciardini*
+* Luca Frassineti (Università degli Studi della Campania “Luigi Vanvitelli”), *Sull’edizione del carteggio tra la tipografia bresciana di Nicolò Bettoni e Vincenzo Monti (1806-1827)*
+* Carmela Marranchino (Università degli Studi di Pavia), *Le Muse nella storia. Vicissitudini ecdotiche della* Musogonia *montiana*
+* Donatella Martinelli (Università di Parma), *Una nuova edizione dei* Canti popolari greci
+* Elena Porciani (Università degli Studi della Campania “Luigi Vanvitelli”), *Nel laboratorio della giovane Morante.* Via dell’Angelo *e il suo doppio*
+* Niccolò Scaffai (Università degli Studi di Siena), *«Non so inventare nulla»: commentare Montale tra prosa e poesia* (Farfalla di Dinard, La bufera e altro)
+
+
+
 
 Registrazioni
 
