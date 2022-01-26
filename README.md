@@ -9,15 +9,10 @@ Questa repository raccoglie i materiali relativi al convegno di studi "«Con ing
 | **Comitato organizzativo** | Filippo Luca Sambugaro (Università degli Studi della Campania “Luigi Vanvitelli”-Université de Strasbourg, filippoluca.sambugaro@unicampania.it); Marco Sartor (Università di Parma, marco.sartor@unipr.it) |
 | **Patrocinio** | Dottorati di ricerca in Storia e trasmissione delle eredità culturali (Università degli Studi della Campania “Luigi Vanvitelli”) e in Scienze filologico-letterarie, storico-filosofiche e artistiche (Università di Parma) |
 
-[Contribution guidelines for this project](slides/Varotti.pdf)
-
-•	Le registrazioni dei lavori vengono pubblicate all’indirizzo: https://bit.ly/CIED_registrazioni
-
-
-
 
 ## Abstract
 Il convegno *«Con ingegno e dottrina». Ricerca ecdotica e indagine manoscritta* si propone di analizzare alcune esperienze selezionate nell’ambito della filologia e letteratura italiana e romanza riguardanti a vario titolo edizioni critiche e/o commentate di testi letterari. Come afferma Giorgio Pasquali in *Filologia e storia* (1920), «caratteristica del lavoro scientifico è lo scegliere» e proprio questo è il *fil rouge* che si intende seguire e dipanare attraverso il presente convegno. L’atto di scegliere nell’approntare un’edizione critica o un commento permette l’espressione non solo del testo e dell’autore presi in considerazione, ma anche del punto di vista unico e particolare dello studioso. Attraverso la definizione di alcuni lavori specifici su testi letterari dal Medioevo all’età contemporanea e tramite la narrazione dei processi di studio e scelta, l’intento è di presentare un ampio ventaglio di esperienze individuali nell’approntare un’edizione critica o commentata di un’opera letteraria. Il convegno adotta un carattere seminariale e si rivolge principalmente – seppur non esclusivamente – a giovani studiosi e ricercatori, ma anche a dottorandi e studenti.
+
 
 ## Materiali
 
@@ -25,6 +20,13 @@ Il convegno *«Con ingegno e dottrina». Ricerca ecdotica e indagine manoscritta
 | --- | ----------- |
 | Rassegna stampa | https://github.com/msartorair/coningegnoedottrina/blob/main/Rassegna_stampa.pdf |
 | Slides | slides/ |
+* [Rassegna stampa](https://github.com/msartorair/coningegnoedottrina/blob/main/Rassegna_stampa.pdf)
+* [Programma](https://github.com/msartorair/coningegnoedottrina/blob/main/Programma.pdf)
+* [Profili bio-bibliografici](https://github.com/msartorair/coningegnoedottrina/blob/main/Profili_bio-bibliografici.pdf)
+* [Manifesto](https://github.com/msartorair/coningegnoedottrina/blob/main/Manifesto.pdf)
+* [Flyer](https://github.com/msartorair/coningegnoedottrina/blob/main/Flyer.pdf)
+* [Book of abstracts](https://github.com/msartorair/coningegnoedottrina/blob/main/Book_of_abstracts.pdf)
+
 
 ## Slide
 
@@ -38,15 +40,3 @@ Il convegno *«Con ingegno e dottrina». Ricerca ecdotica e indagine manoscritta
 * **Donatella Martinelli** (Università di Parma), *Una nuova edizione dei* Canti popolari greci ([slides](slides/Martinelli.pdf), [registrazione](https://bit.ly/CIED_Martinelli_registrazione))
 * **Elena Porciani** (Università degli Studi della Campania “Luigi Vanvitelli”), *Nel laboratorio della giovane Morante.* Via dell’Angelo *e il suo doppio* ([slides](slides/Porciani.pdf), [registrazione](https://bit.ly/CIED_Porciani_registrazione))
 * **Niccolò Scaffai** (Università degli Studi di Siena), *«Non so inventare nulla»: commentare Montale tra prosa e poesia* (Farfalla di Dinard, La bufera e altro) ([slides](slides/Scaffai.pdf), [registrazione](https://bit.ly/CIED_Scaffai_registrazione))
-
-
-
-
-Registrazioni
-
-* [Rassegna stampa](https://github.com/msartorair/coningegnoedottrina/blob/main/Rassegna_stampa.pdf)
-* [Programma](https://github.com/msartorair/coningegnoedottrina/blob/main/Programma.pdf)
-* [Profili bio-bibliografici](https://github.com/msartorair/coningegnoedottrina/blob/main/Profili_bio-bibliografici.pdf)
-* [Manifesto](https://github.com/msartorair/coningegnoedottrina/blob/main/Manifesto.pdf)
-* [Flyer](https://github.com/msartorair/coningegnoedottrina/blob/main/Flyer.pdf)
-* [Book of abstracts](https://github.com/msartorair/coningegnoedottrina/blob/main/Book_of_abstracts.pdf)
