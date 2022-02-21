@@ -2,14 +2,14 @@
 
 Questa repository raccoglie i materiali relativi al convegno di studi _«Con ingegno e dottrina». Ricerca ecdotica e indagine manoscritta_ (Santa Maria Capua Vetere-Parma-online, 19-20 gennaio 2022).
 
-* **Data**: mercoledì 19 gennaio e giovedì 20 gennaio 2022, dalle ore 14:00 alle ore 18:00 |
+* **Data**: mercoledì 19 gennaio e giovedì 20 gennaio 2022, dalle ore 14:00 alle ore 18:00.
 * **Luogo**:
   * online su **Microsoft Teams** all’indirizzo: https://bit.ly/CIED_MSTeams;
   * in presenza a **Santa Maria Capua Vetere (Caserta)**: Università degli Studi della Campania “Luigi Vanvitelli”, Dipartimento di Lettere e Beni Culturali, Via R. Perla, 21 – **Aula Appia** (20 gennaio);
   * in presenza a **Parma**: Università di Parma, Dipartimento di Discipline Umanistiche, Sociali e delle Imprese Culturali, Via M. D’Azeglio, 85 – **Aula H** (19 gennaio), **Aula E** (20 gennaio);
   * le **registrazioni** dei lavori sono pubblicate all’indirizzo: https://bit.ly/CIED_registrazioni.
-* **Comitato organizzativo**: Filippo Luca Sambugaro (Università degli Studi della Campania “Luigi Vanvitelli”-Université de Strasbourg, filippoluca.sambugaro@unicampania.it); Marco Sartor (Università di Parma, marco.sartor@unipr.it) |
-* **Patrocinio**: Dottorati di ricerca in Storia e trasmissione delle eredità culturali (Università degli Studi della Campania “Luigi Vanvitelli”) e in Scienze filologico-letterarie, storico-filosofiche e artistiche (Università di Parma) |
+* **Comitato organizzativo**: Filippo Luca Sambugaro (Università degli Studi della Campania “Luigi Vanvitelli”-Université de Strasbourg, filippoluca.sambugaro@unicampania.it); Marco Sartor (Università di Parma, marco.sartor@unipr.it).
+* **Patrocinio**: Dottorati di ricerca in Storia e trasmissione delle eredità culturali (Università degli Studi della Campania “Luigi Vanvitelli”) e in Scienze filologico-letterarie, storico-filosofiche e artistiche (Università di Parma).
 
 
 ## Abstract
