@@ -1,5 +1,7 @@
 # Convegno di studi "«Con ingegno e dottrina». Ricerca ecdotica e indagine manoscritta"
 
+[![DOI](https://zenodo.org/badge/435627122.svg)](https://zenodo.org/badge/latestdoi/435627122)
+
 Questa repository raccoglie i materiali relativi al convegno di studi _«Con ingegno e dottrina». Ricerca ecdotica e indagine manoscritta_ (Santa Maria Capua Vetere-Parma-online, 19-20 gennaio 2022).
 
 * **Data**: mercoledì 19 gennaio e giovedì 20 gennaio 2022, dalle ore 14:00 alle ore 18:00.
