@@ -16,10 +16,6 @@ Il convegno *«Con ingegno e dottrina». Ricerca ecdotica e indagine manoscritta
 
 ## Materiali
 
-| Syntax | Description |
-| --- | ----------- |
-| Rassegna stampa | https://github.com/msartorair/coningegnoedottrina/blob/main/Rassegna_stampa.pdf |
-| Slides | slides/ |
 * [Rassegna stampa](https://github.com/msartorair/coningegnoedottrina/blob/main/Rassegna_stampa.pdf)
 * [Programma](https://github.com/msartorair/coningegnoedottrina/blob/main/Programma.pdf)
 * [Profili bio-bibliografici](https://github.com/msartorair/coningegnoedottrina/blob/main/Profili_bio-bibliografici.pdf)
@@ -28,7 +24,7 @@ Il convegno *«Con ingegno e dottrina». Ricerca ecdotica e indagine manoscritta
 * [Book of abstracts](https://github.com/msartorair/coningegnoedottrina/blob/main/Book_of_abstracts.pdf)
 
 
-## Slide
+## Interventi
 
 * **Paolo Rinoldi** (Università di Parma), *L’edizione critica della* Chanson d’Aspremont ([slides](slides/Rinoldi.pdf), [registrazione](https://bit.ly/CIED_Rinoldi_registrazione))
 * **Margherita Centenari** (Università di Parma), *Errori e aggiunte nel manoscritto della* Cronica *di Salimbene de Adam* ([slides](slides/Centenari.pdf), [registrazione](https://bit.ly/CIED_Centenari_registrazione))
