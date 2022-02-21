@@ -38,6 +38,8 @@ Il convegno *«Con ingegno e dottrina». Ricerca ecdotica e indagine manoscritta
 * **Carlo Varotti** (Università di Parma), *Tra filologia e commento: il ‘testo lungo’ dei* Ricordi *di F. Guicciardini* ([slides](slides/Varotti.pdf), [registrazione](https://bit.ly/CIED_Varotti_registrazione))
 
 
+### Giovedì 20 gennaio 2022
+
 * **Luca Frassineti** (Università degli Studi della Campania “Luigi Vanvitelli”), *Sull’edizione del carteggio tra la tipografia bresciana di Nicolò Bettoni e Vincenzo Monti (1806-1827)* ([slides](slides/Frassineti.pdf), [registrazione](https://bit.ly/CIED_Frassineti_registrazione))
 * **Carmela Marranchino** (Università degli Studi di Pavia), *Le Muse nella storia. Vicissitudini ecdotiche della* Musogonia *montiana* ([slides](slides/Marranchino.pdf), [registrazione](https://bit.ly/CIED_Marranchino_registrazione))
 * **Donatella Martinelli** (Università di Parma), *Una nuova edizione dei* Canti popolari greci ([slides](slides/Martinelli.pdf), [registrazione](https://bit.ly/CIED_Martinelli_registrazione))
