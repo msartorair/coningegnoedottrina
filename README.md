@@ -18,13 +18,12 @@ Il convegno *«Con ingegno e dottrina». Ricerca ecdotica e indagine manoscritta
 
 ## Materiali
 
-1. [Manifesto](https://github.com/msartorair/coningegnoedottrina/blob/main/Manifesto.pdf)
-2. [Flyer](https://github.com/msartorair/coningegnoedottrina/blob/main/Flyer.pdf)
-3. [Programma](https://github.com/msartorair/coningegnoedottrina/blob/main/Programma.pdf)
-4. [Book of abstracts](https://github.com/msartorair/coningegnoedottrina/blob/main/Book_of_abstracts.pdf)
-5. [Profili bio-bibliografici](https://github.com/msartorair/coningegnoedottrina/blob/main/Profili_bio-bibliografici.pdf)
-6. [Rassegna stampa](https://github.com/msartorair/coningegnoedottrina/blob/main/Rassegna_stampa.pdf)
-
+1. [Manifesto](https://github.com/msartorair/coningegnoedottrina/raw/main/Manifesto.pdf)
+2. [Flyer](https://github.com/msartorair/coningegnoedottrina/raw/main/Flyer.pdf)
+3. [Programma](https://github.com/msartorair/coningegnoedottrina/raw/main/Programma.pdf)
+4. [Book of abstracts](https://github.com/msartorair/coningegnoedottrina/raw/main/Book_of_abstracts.pdf)
+5. [Profili bio-bibliografici](https://github.com/msartorair/coningegnoedottrina/raw/main/Profili_bio-bibliografici.pdf)
+6. [Rassegna stampa](https://github.com/msartorair/coningegnoedottrina/raw/main/Rassegna_stampa.pdf)
 
 
 ## Programma
@@ -37,6 +36,8 @@ Il convegno *«Con ingegno e dottrina». Ricerca ecdotica e indagine manoscritta
 * **Attilio Cicchella** (Università degli Studi di Torino), *La tradizione delle lettere di Caterina da Siena:* status quaestionis *e prospettive di ricerca* ([slides](slides/Cicchella.pdf), [registrazione](https://bit.ly/CIED_Cicchella_registrazione))
 * **Andrea Bocchi** (Università degli Studi di Udine), *Cristiano da Camerino dal manoscritto al commento* ([slides](slides/Bocchi.pdf), [registrazione](https://bit.ly/CIED_Bocchi_registrazione))
 * **Carlo Varotti** (Università di Parma), *Tra filologia e commento: il ‘testo lungo’ dei* Ricordi *di F. Guicciardini* ([slides](slides/Varotti.pdf), [registrazione](https://bit.ly/CIED_Varotti_registrazione))
+
+
 * **Luca Frassineti** (Università degli Studi della Campania “Luigi Vanvitelli”), *Sull’edizione del carteggio tra la tipografia bresciana di Nicolò Bettoni e Vincenzo Monti (1806-1827)* ([slides](slides/Frassineti.pdf), [registrazione](https://bit.ly/CIED_Frassineti_registrazione))
 * **Carmela Marranchino** (Università degli Studi di Pavia), *Le Muse nella storia. Vicissitudini ecdotiche della* Musogonia *montiana* ([slides](slides/Marranchino.pdf), [registrazione](https://bit.ly/CIED_Marranchino_registrazione))
 * **Donatella Martinelli** (Università di Parma), *Una nuova edizione dei* Canti popolari greci ([slides](slides/Martinelli.pdf), [registrazione](https://bit.ly/CIED_Martinelli_registrazione))
