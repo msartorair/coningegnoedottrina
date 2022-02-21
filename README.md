@@ -1,13 +1,15 @@
 # Convegno di studi "«Con ingegno e dottrina». Ricerca ecdotica e indagine manoscritta"
 
-Questa repository raccoglie i materiali relativi al convegno di studi "«Con ingegno e dottrina». Ricerca ecdotica e indagine manoscritta" (Santa Maria Capua Vetere-Parma-online, 19-20 gennaio 2022).
+Questa repository raccoglie i materiali relativi al convegno di studi _«Con ingegno e dottrina». Ricerca ecdotica e indagine manoscritta_ (Santa Maria Capua Vetere-Parma-online, 19-20 gennaio 2022).
 
-| X | X |
-| --- | ----------- |
-| **Data** | Mercoledì 19 gennaio e giovedì 20 gennaio 2022, dalle ore 14:00 alle ore 18:00 |
-| **Luogo** | Online su Microsoft Teams all’indirizzo: https://bit.ly/CIED_MSTeams; in presenza a Santa Maria Capua Vetere (Caserta): Università degli Studi della Campania “Luigi Vanvitelli”, Dipartimento di Lettere e Beni Culturali, Via R. Perla, 21 – Aula Appia (20 gennaio); in presenza a Parma: Università di Parma, Dipartimento di Discipline Umanistiche, Sociali e delle Imprese Culturali, Via M. D’Azeglio, 85 – Aula H (19 gennaio), Aula E (20 gennaio) |
-| **Comitato organizzativo** | Filippo Luca Sambugaro (Università degli Studi della Campania “Luigi Vanvitelli”-Université de Strasbourg, filippoluca.sambugaro@unicampania.it); Marco Sartor (Università di Parma, marco.sartor@unipr.it) |
-| **Patrocinio** | Dottorati di ricerca in Storia e trasmissione delle eredità culturali (Università degli Studi della Campania “Luigi Vanvitelli”) e in Scienze filologico-letterarie, storico-filosofiche e artistiche (Università di Parma) |
+* **Data**: mercoledì 19 gennaio e giovedì 20 gennaio 2022, dalle ore 14:00 alle ore 18:00 |
+* **Luogo**:
+  * online su **Microsoft Teams** all’indirizzo: https://bit.ly/CIED_MSTeams;
+  * in presenza a **Santa Maria Capua Vetere (Caserta)**: Università degli Studi della Campania “Luigi Vanvitelli”, Dipartimento di Lettere e Beni Culturali, Via R. Perla, 21 – **Aula Appia** (20 gennaio);
+  * in presenza a **Parma**: Università di Parma, Dipartimento di Discipline Umanistiche, Sociali e delle Imprese Culturali, Via M. D’Azeglio, 85 – **Aula H** (19 gennaio), **Aula E** (20 gennaio);
+  * le **registrazioni** dei lavori sono pubblicate all’indirizzo: https://bit.ly/CIED_registrazioni.
+* **Comitato organizzativo**: Filippo Luca Sambugaro (Università degli Studi della Campania “Luigi Vanvitelli”-Université de Strasbourg, filippoluca.sambugaro@unicampania.it); Marco Sartor (Università di Parma, marco.sartor@unipr.it) |
+* **Patrocinio**: Dottorati di ricerca in Storia e trasmissione delle eredità culturali (Università degli Studi della Campania “Luigi Vanvitelli”) e in Scienze filologico-letterarie, storico-filosofiche e artistiche (Università di Parma) |
 
 
 ## Abstract
@@ -16,16 +18,20 @@ Il convegno *«Con ingegno e dottrina». Ricerca ecdotica e indagine manoscritta
 
 ## Materiali
 
-* [Rassegna stampa](https://github.com/msartorair/coningegnoedottrina/blob/main/Rassegna_stampa.pdf)
-* [Programma](https://github.com/msartorair/coningegnoedottrina/blob/main/Programma.pdf)
-* [Profili bio-bibliografici](https://github.com/msartorair/coningegnoedottrina/blob/main/Profili_bio-bibliografici.pdf)
-* [Manifesto](https://github.com/msartorair/coningegnoedottrina/blob/main/Manifesto.pdf)
-* [Flyer](https://github.com/msartorair/coningegnoedottrina/blob/main/Flyer.pdf)
-* [Book of abstracts](https://github.com/msartorair/coningegnoedottrina/blob/main/Book_of_abstracts.pdf)
+1. [Manifesto](https://github.com/msartorair/coningegnoedottrina/blob/main/Manifesto.pdf)
+2. [Flyer](https://github.com/msartorair/coningegnoedottrina/blob/main/Flyer.pdf)
+3. [Programma](https://github.com/msartorair/coningegnoedottrina/blob/main/Programma.pdf)
+4. [Book of abstracts](https://github.com/msartorair/coningegnoedottrina/blob/main/Book_of_abstracts.pdf)
+5. [Profili bio-bibliografici](https://github.com/msartorair/coningegnoedottrina/blob/main/Profili_bio-bibliografici.pdf)
+6. [Rassegna stampa](https://github.com/msartorair/coningegnoedottrina/blob/main/Rassegna_stampa.pdf)
 
 
-## Interventi
 
+## Programma
+
+### Mercoledì 19 gennaio 2022
+
+* **Saluti istituzionali dell'Università di Parma e introduzione ai lavori**, 
 * **Paolo Rinoldi** (Università di Parma), *L’edizione critica della* Chanson d’Aspremont ([slides](slides/Rinoldi.pdf), [registrazione](https://bit.ly/CIED_Rinoldi_registrazione))
 * **Margherita Centenari** (Università di Parma), *Errori e aggiunte nel manoscritto della* Cronica *di Salimbene de Adam* ([slides](slides/Centenari.pdf), [registrazione](https://bit.ly/CIED_Centenari_registrazione))
 * **Attilio Cicchella** (Università degli Studi di Torino), *La tradizione delle lettere di Caterina da Siena:* status quaestionis *e prospettive di ricerca* ([slides](slides/Cicchella.pdf), [registrazione](https://bit.ly/CIED_Cicchella_registrazione))
