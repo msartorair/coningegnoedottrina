@@ -30,18 +30,42 @@ Il convegno *«Con ingegno e dottrina». Ricerca ecdotica e indagine manoscritta
 
 ### Mercoledì 19 gennaio 2022
 
-* **Saluti istituzionali dell'Università di Parma e introduzione ai lavori**, 
+#### Saluti istituzionali dell'Università di Parma e introduzione ai lavori
+* **Diego Saglia**, Direttore del Dipartimento di Discipline Umanistiche, Sociali e delle Imprese Culturali dell'Università di Parma ([registrazione](https://www.youtube.com/watch?v=HK-NHehgcFM))
+
+#### Sessione 1
+ 
 * **Paolo Rinoldi** (Università di Parma), *L’edizione critica della* Chanson d’Aspremont ([slides](slides/Rinoldi.pdf), [registrazione](https://bit.ly/CIED_Rinoldi_registrazione))
 * **Margherita Centenari** (Università di Parma), *Errori e aggiunte nel manoscritto della* Cronica *di Salimbene de Adam* ([slides](slides/Centenari.pdf), [registrazione](https://bit.ly/CIED_Centenari_registrazione))
 * **Attilio Cicchella** (Università degli Studi di Torino), *La tradizione delle lettere di Caterina da Siena:* status quaestionis *e prospettive di ricerca* ([slides](slides/Cicchella.pdf), [registrazione](https://bit.ly/CIED_Cicchella_registrazione))
+
+Modera la discussione **Niccolò Gensini** (Alma Mater Studiorum Università di Bologna) ([registrazione](https://www.youtube.com/watch?v=XSuF-NFFbmY))
+
+#### Sessione 2
+
 * **Andrea Bocchi** (Università degli Studi di Udine), *Cristiano da Camerino dal manoscritto al commento* ([slides](slides/Bocchi.pdf), [registrazione](https://bit.ly/CIED_Bocchi_registrazione))
 * **Carlo Varotti** (Università di Parma), *Tra filologia e commento: il ‘testo lungo’ dei* Ricordi *di F. Guicciardini* ([slides](slides/Varotti.pdf), [registrazione](https://bit.ly/CIED_Varotti_registrazione))
+
+Modera la discusisone **Marco Sartor** (Università di Parma) ([registrazione](https://www.youtube.com/watch?v=2zZd6HJZ4Jg))
 
 
 ### Giovedì 20 gennaio 2022
 
+#### Saluti istituzionali dell'Università degli Studi della Campania "Luigi Vanvitelli" e introduzione ai lavori
+* **Giulio Sodano**, Direttore del Dipartimento di Lettere e Beni Culturali dell'Università degli Studi della Campania "Luigi Vanvitelli" ([registrazione](https://www.youtube.com/watch?v=GvVT6dmpsDU))
+* **Paola Zito**, Coordinatrice del Corso di Dottorato in Storia e trasmissione delle eredità culturali ([registrazione](https://www.youtube.com/watch?v=GvVT6dmpsDU))
+
+#### Sessione 3
+
 * **Luca Frassineti** (Università degli Studi della Campania “Luigi Vanvitelli”), *Sull’edizione del carteggio tra la tipografia bresciana di Nicolò Bettoni e Vincenzo Monti (1806-1827)* ([slides](slides/Frassineti.pdf), [registrazione](https://bit.ly/CIED_Frassineti_registrazione))
 * **Carmela Marranchino** (Università degli Studi di Pavia), *Le Muse nella storia. Vicissitudini ecdotiche della* Musogonia *montiana* ([slides](slides/Marranchino.pdf), [registrazione](https://bit.ly/CIED_Marranchino_registrazione))
 * **Donatella Martinelli** (Università di Parma), *Una nuova edizione dei* Canti popolari greci ([slides](slides/Martinelli.pdf), [registrazione](https://bit.ly/CIED_Martinelli_registrazione))
+
+Modera la discusisone **Filippo Luca Sambugaro** (Università degli Studi della Campania “Luigi Vanvitelli”; Université de Strasbourg) ([registrazione](https://youtu.be/bEmWIqhR7Y4))
+
+#### Sessione 4
+
 * **Elena Porciani** (Università degli Studi della Campania “Luigi Vanvitelli”), *Nel laboratorio della giovane Morante.* Via dell’Angelo *e il suo doppio* ([slides](slides/Porciani.pdf), [registrazione](https://bit.ly/CIED_Porciani_registrazione))
 * **Niccolò Scaffai** (Università degli Studi di Siena), *«Non so inventare nulla»: commentare Montale tra prosa e poesia* (Farfalla di Dinard, La bufera e altro) ([slides](slides/Scaffai.pdf), [registrazione](https://bit.ly/CIED_Scaffai_registrazione))
+
+Modera la discusisone **Elena Santagata** (Università Ca' Foscari Venezia) ([registrazione](https://youtu.be/94reqir4LXs))
